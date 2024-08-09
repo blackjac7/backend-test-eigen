@@ -19,8 +19,8 @@ Berikut adalah diagram ERD (Entity-Relationship Diagram) untuk sistem manajemen 
 1. **Clone Repository**
 
     ```bash
-    git clone https://github.com/username/repository.git
-    cd repository
+    git clone https://github.com/blackjac7/backend-test-eigen.git
+    cd backend-test-eigen
 
     ```
 
